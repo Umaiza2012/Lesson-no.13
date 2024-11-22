@@ -1,0 +1,9 @@
+/*Selector (css syntax)*/
+#h1
+{
+    background-color: greenyellow;
+    Position:fixed;
+    padding:10px;
+    width:100%;
+    margin:0;
+}
